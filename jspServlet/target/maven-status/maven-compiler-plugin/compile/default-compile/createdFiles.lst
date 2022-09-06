@@ -1,0 +1,6 @@
+virtusa\assessment\servlet\SignUp.class
+virtusa\assessment\jspservlet\A.class
+virtusa\assessment\model\Student.class
+virtusa\assessment\controller\DB.class
+virtusa\assessment\servlet\SignIn.class
+virtusa\assessment\jspservlet\HelloServlet.class
